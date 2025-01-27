@@ -1,7 +1,11 @@
 <h1 align="center">create-discord-bot</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/ODfMO7F.gif" alt="Demo" />
+  
+
+https://github.com/user-attachments/assets/529e52fa-359e-4818-ad1c-fb437e456f61
+
+
 </p>
 
 <p align="center">
