@@ -29,7 +29,7 @@ cargo install create-discord-bot
 #### From source
 
 ```bash
-git clone https://github.com/27Saumya/create-discord-bot.git
+git clone https://github.com/saumsy/create-discord-bot.git
 cd create-discord-bot
 cargo install --path .
 ```
